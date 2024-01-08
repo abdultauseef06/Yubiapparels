@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Yubiapparels/static/css/main.3c548664.css",
+    "main.js": "/Yubiapparels/static/js/main.b71b4158.js",
+    "static/js/787.fe96b421.chunk.js": "/Yubiapparels/static/js/787.fe96b421.chunk.js",
+    "static/media/fashion.webp": "/Yubiapparels/static/media/fashion.66071e4ceb38edbd6b47.webp",
+    "static/media/im1.webp": "/Yubiapparels/static/media/im1.6c34db6baad3e47ba840.webp",
+    "index.html": "/Yubiapparels/index.html",
+    "main.3c548664.css.map": "/Yubiapparels/static/css/main.3c548664.css.map",
+    "main.b71b4158.js.map": "/Yubiapparels/static/js/main.b71b4158.js.map",
+    "787.fe96b421.chunk.js.map": "/Yubiapparels/static/js/787.fe96b421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c548664.css",
+    "static/js/main.b71b4158.js"
+  ]
+}
